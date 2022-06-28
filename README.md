@@ -5,4 +5,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=shrimanm&theme=redical)
 
-![](https://komarev.com/ghpvc/?username=madhuprakash19)
+![](https://komarev.com/ghpvc/?username=shrimanm)
